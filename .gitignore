@@ -1,0 +1,6 @@
+.env
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+lamoda_academy_md/
+*.log
